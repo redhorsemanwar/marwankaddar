@@ -5,7 +5,7 @@
     outline: 0;
 
 }
-.navbar {
+.footer,.navbar {
     -webkit-box-shadow: 0 8px 6px -6px #e0e3e3;
     -moz-box-shadow: 0 8px 6px -6px #e0e3e3;
     box-shadow: 0 8px 6px -6px #e0e3e3;
