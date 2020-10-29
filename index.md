@@ -62,8 +62,7 @@
       <p>Our services varies and we are still expanding, what we offer for now are templates only and we are trying to expand more on the go.
       Here's our full list of products: Templates, Buttons, Widgets, Wallpapers, Icons, Business cards templates and you can request a custom build!. Provided by professional designers across the globe!</p>
 
-    <input class="btn border-primary bg-white" type="button" value="Let's Go" onclick="window.location.href='home.html'"></input>
-
+    <input class="btn border-primary bg-white" type="button" value="Let's Go" onclick="window.location.href='home.html'">
     </div>
 
 </body>
