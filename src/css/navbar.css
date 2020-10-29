@@ -1,0 +1,24 @@
+.btn-primary:hover,.btn-primary:focus,.btn-primary:active, 
+.btn-primary:active:focus:not(:disabled):not(.disabled),
+.btn:focus, .btn:active, .btn:hover{
+    box-shadow: none!important;
+    outline: 0;
+
+}
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #e0e3e3;
+    -moz-box-shadow: 0 8px 6px -6px #e0e3e3;
+    box-shadow: 0 8px 6px -6px #e0e3e3;
+
+}
+body{
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+.dropdown > .dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}

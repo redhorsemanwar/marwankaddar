@@ -1,0 +1,40 @@
+body {
+  background: url("src/images/H/bg.jpg") center no-repeat;
+}
+
+.nav-bar{
+  width: 100%;
+}
+
+.ul1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: block;
+}
+
+.nav-bar-item {
+  float: left;
+}
+
+.nav-bar-item .item-page {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-bar-item .item-page:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+
+.item-page{
+  background-color: #333;
+  margin-right: 5px;
+  border-radius: 25px;
+}
+
